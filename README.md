@@ -1,2 +1,2 @@
 # stripe-java-graalvm
-GraalVM configuration files for using stripe-java in Quarkus or any oder App compiled with native-image.
+GraalVM configuration files for using [stripe-java](https://github.com/stripe/stripe-java) in Quarkus or any oder App compiled with native-image.
