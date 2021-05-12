@@ -1,0 +1,3145 @@
+[
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Account"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.AccountCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.AccountLink"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Address"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.AlipayAccount"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ApplePayDomain"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ApplePayDomainCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Application"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ApplicationFee"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ApplicationFeeCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Balance"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BalanceTransaction"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BalanceTransactionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BankAccount"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BitcoinReceiver"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BitcoinReceiverCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BitcoinTransaction"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.BitcoinTransactionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Capability"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CapabilityCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Card"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CardCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Charge"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ChargeCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ConnectCollectionTransfer"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CountrySpec"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CountrySpecCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Coupon"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CouponCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CreditNote"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CreditNoteCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CreditNoteLineItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CreditNoteLineItemCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Customer"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CustomerBalanceTransaction"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CustomerBalanceTransactionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.CustomerCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Discount"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Dispute"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.DisputeCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.EphemeralKey"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Event"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.EventCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.EventData"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.EventRequest"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ExchangeRate"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ExchangeRateCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ExternalAccountCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.FeeRefund"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.FeeRefundCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.File"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.FileCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.FileLink"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.FileLinkCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Invoice"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.InvoiceCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.InvoiceItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.InvoiceItemCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.InvoiceLineItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.InvoiceLineItemCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.InvoiceLineItemPeriod"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.IssuerFraudRecord"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.IssuerFraudRecordCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.LineItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.LineItemCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.LoginLink"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Mandate"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Order"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.OrderCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.OrderItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.OrderReturn"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.OrderReturnCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PackageDimensions"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PaymentIntent"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PaymentIntentCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PaymentMethod"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PaymentMethodCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PaymentSourceCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Payout"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PayoutCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Person"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PersonCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Plan"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PlanCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PlatformTaxFee"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Price"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PriceCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Product"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ProductCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PromotionCode"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.PromotionCodeCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Recipient"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.RecipientCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Refund"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.RefundCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ReserveTransaction"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Review"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ReviewCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SetupAttempt"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SetupAttemptCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SetupIntent"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SetupIntentCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ShippingDetails"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Sku"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SkuCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Source"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SourceMandateNotification"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SourceTransaction"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SourceTransactionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.StripeError"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.StripeErrorResponse"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Subscription"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SubscriptionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SubscriptionItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SubscriptionItemCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SubscriptionSchedule"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.SubscriptionScheduleCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TaxDeductedAtSource"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TaxId"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TaxIdCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TaxRate"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TaxRateCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.ThreeDSecure"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Token"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Topup"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TopupCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.Transfer"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TransferCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TransferReversal"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.TransferReversalCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.UsageRecord"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.UsageRecordSummary"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.UsageRecordSummaryCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.WebhookEndpoint"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.WebhookEndpointCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.billingportal.Configuration"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.billingportal.ConfigurationCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.billingportal.Session"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.checkout.Session"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.checkout.SessionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.Authorization"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.AuthorizationCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.Card"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.CardCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.Cardholder"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.CardholderCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.Dispute"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.DisputeCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.Transaction"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.issuing.TransactionCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.EarlyFraudWarning"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.EarlyFraudWarningCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.Rule"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.ValueList"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.ValueListCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.ValueListItem"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.radar.ValueListItemCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.reporting.ReportRun"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.reporting.ReportRunCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.reporting.ReportType"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.reporting.ReportTypeCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.sigma.ScheduledQueryRun"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.sigma.ScheduledQueryRunCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.terminal.ConnectionToken"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.terminal.Location"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.terminal.LocationCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.terminal.Reader"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.model.terminal.ReaderCollection"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountCapabilitiesParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountLinkCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountPersonsParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountRejectParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.AccountUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ApplePayDomainCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ApplePayDomainListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ApplePayDomainRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ApplicationFeeListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ApplicationFeeRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BalanceRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BalanceTransactionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BalanceTransactionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BankAccountUpdateOnAccountParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BankAccountUpdateOnCustomerParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BankAccountVerifyParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BitcoinReceiverListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BitcoinReceiverRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.BitcoinTransactionCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CapabilityCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CapabilityCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CapabilityUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CardUpdateOnAccountParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CardUpdateOnCustomerParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ChargeCaptureParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ChargeCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ChargeListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ChargeRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ChargeUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CountrySpecListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CountrySpecRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CouponCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CouponListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CouponRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CouponUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNoteCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNoteLineItemCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNoteListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNotePreviewParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNoteRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNoteUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CreditNoteVoidCreditNoteParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerBalanceTransactionCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerBalanceTransactionCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerBalanceTransactionCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerBalanceTransactionUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerBalanceTransactionsParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.CustomerUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.DisputeCloseParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.DisputeListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.DisputeRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.DisputeUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.EphemeralKeyCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.EventListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.EventRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ExchangeRateListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ExchangeRateRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ExternalAccountCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ExternalAccountCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ExternalAccountCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ExternalAccountUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FeeRefundCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FeeRefundCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FeeRefundCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FeeRefundUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FileCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FileLinkCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FileLinkListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FileLinkRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FileLinkUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.FileListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceFinalizeInvoiceParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceItemCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceItemListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceItemRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceItemUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceLineItemCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceMarkUncollectibleParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoicePayParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceSendInvoiceParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceUpcomingParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.InvoiceVoidInvoiceParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.IssuerFraudRecordListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.IssuerFraudRecordRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.LoginLinkCreateOnAccountParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.MandateRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderPayParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderReturnListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderReturnOrderParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderReturnRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.OrderUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentCancelParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentCaptureParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentConfirmParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentIntentUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentMethodAttachParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentMethodCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentMethodDetachParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentMethodListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentMethodRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentMethodUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentSourceCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentSourceCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PaymentSourceCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PayoutCancelParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PayoutCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PayoutListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PayoutRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PayoutReverseParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PayoutUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PersonCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PersonCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PersonCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PersonUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PlanCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PlanListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PlanRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PlanUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PriceCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PriceListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PriceRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PriceUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ProductCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ProductListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ProductRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ProductUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PromotionCodeCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PromotionCodeListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PromotionCodeRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.PromotionCodeUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RecipientCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RecipientListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RecipientRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RecipientUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RefundCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RefundCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RefundCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RefundListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RefundRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.RefundUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ReviewApproveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ReviewListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ReviewRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupAttemptListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupIntentCancelParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupIntentConfirmParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupIntentCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupIntentListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupIntentRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SetupIntentUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SkuCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SkuListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SkuRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SkuUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SourceCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SourceDetachParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SourceRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SourceSourceTransactionsParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SourceUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SourceVerifyParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionCancelParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionItemCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionItemDeleteParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionItemListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionItemRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionItemUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionItemUsageRecordSummariesParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionScheduleCancelParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionScheduleCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionScheduleListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionScheduleReleaseParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionScheduleRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionScheduleUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.SubscriptionUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxIdCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxIdCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxIdCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxRateCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxRateListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxRateRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TaxRateUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ThreeDSecureCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.ThreeDSecureRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TokenCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TokenRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TopupCancelParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TopupCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TopupListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TopupRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TopupUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferReversalCollectionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferReversalCollectionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferReversalCollectionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferReversalUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.TransferUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.UsageRecordCreateOnSubscriptionItemParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.WebhookEndpointCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.WebhookEndpointListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.WebhookEndpointRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.WebhookEndpointUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.billingportal.ConfigurationCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.billingportal.ConfigurationListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.billingportal.ConfigurationRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.billingportal.ConfigurationUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.billingportal.SessionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.checkout.SessionCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.checkout.SessionListLineItemsParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.checkout.SessionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.checkout.SessionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.common.EmptyParam"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.AuthorizationApproveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.AuthorizationDeclineParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.AuthorizationListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.AuthorizationRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.AuthorizationUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardDetailsParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardholderCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardholderListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardholderRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.CardholderUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.DisputeCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.DisputeListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.DisputeRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.DisputeSubmitParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.DisputeUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.TransactionListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.TransactionRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.issuing.TransactionUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.EarlyFraudWarningListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.EarlyFraudWarningRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListItemCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListItemListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListItemRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.radar.ValueListUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.reporting.ReportRunCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.reporting.ReportRunListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.reporting.ReportRunRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.reporting.ReportTypeListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.reporting.ReportTypeRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.sigma.ScheduledQueryRunListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.sigma.ScheduledQueryRunRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.ConnectionTokenCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.LocationCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.LocationDeleteParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.LocationListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.LocationRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.LocationUpdateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.ReaderCreateParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.ReaderDeleteParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.ReaderListParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.ReaderRetrieveParams"
+  },
+  {
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "name": "com.stripe.param.terminal.ReaderUpdateParams"
+  }
+]
