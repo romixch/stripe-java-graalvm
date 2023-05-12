@@ -44,9 +44,18 @@ private fun getAllClasses(): ArrayList<ReflectionClassDescription> {
         val potentialClass = info.load()
         if (isUsedWithReflection(potentialClass)) {
             classes.add(ReflectionClassDescription(info.name))
+            handleInnerClasses(potentialClass, classes);
         }
     }
     return classes
+}
+@Throws(ClassNotFoundException::class)
+private fun handleInnerClasses(clazz: Class<*>, classes:ArrayList<ReflectionClassDescription>) {
+    for (declaredClass in clazz.declaredClasses ) {
+        classes.add(ReflectionClassDescription(declaredClass.name))
+        // Handle Recursive Inner classes
+        handleInnerClasses(declaredClass, classes);
+    }
 }
 
 private fun isUsedWithReflection(classToInspect: Class<*>): Boolean {
